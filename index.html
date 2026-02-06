@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<div></div>
+<script>
+Array
+.from({length: Math.pow(2, 5)})
+.map((_, i) => {
+    return {
+        b: `${i.toString(2)}`.padStart(5, "0"),
+        value: i,
+    };
+})
+</script>
+
+</body>
+</html>
