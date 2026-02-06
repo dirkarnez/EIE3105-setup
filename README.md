@@ -4,6 +4,9 @@ EIE3105-setup
 - [concurrent.futures --- 啟動平行任務 — Python 3.14.2 說明文件](https://docs.python.org/zh-tw/3/library/concurrent.futures.html)
 - [python concurrent模块实现多线程 - 三只松鼠 - 博客园](https://www.cnblogs.com/shenh/p/14338173.html)
 
+### Tools
+- [GoogleChromeLabs/serial-terminal](https://googlechromelabs.github.io/serial-terminal/)
+
 ### TODOs
 - [ ] merge [dirkarnez/EIE3105-STM32-Tools](https://github.com/dirkarnez/EIE3105-STM32-Tools)
 
