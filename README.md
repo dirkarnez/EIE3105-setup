@@ -10,6 +10,9 @@ EIE3105-setup
 ### TODOs
 - [ ] merge [dirkarnez/EIE3105-STM32-Tools](https://github.com/dirkarnez/EIE3105-STM32-Tools)
 
+### Info
+- CF502: `C:\Program Files\Python312\python.exe`
+
 ### AVR
 ```
 rm -rf  main.o   
