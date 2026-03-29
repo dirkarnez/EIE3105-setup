@@ -7,6 +7,8 @@ EIE3105-setup
 
 ### Tools
 - [GoogleChromeLabs/serial-terminal](https://googlechromelabs.github.io/serial-terminal/)
+- [**WebSerial: A browser based Serial Port application**](https://webserial.io/?vid=2341&pid=0043)
+   - better
 
 ### TODOs
 - [ ] merge [dirkarnez/EIE3105-STM32-Tools](https://github.com/dirkarnez/EIE3105-STM32-Tools)
